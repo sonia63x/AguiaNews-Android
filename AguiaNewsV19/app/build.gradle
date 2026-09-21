@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId 'br.com.aguianews.app'
-        minSdk 23
+        minSdk 24
         targetSdk 36
         versionCode 19
         versionName '1.0.19'
